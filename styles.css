@@ -286,7 +286,7 @@ footer {
   border-radius: 10px;
 }
 
-/* ===== Contact Section ===== */
+/* Contact Section*/
 .contact-section {
   background: #1e1e1e;
   color: var(--light);
@@ -354,7 +354,7 @@ footer {
   align-self: start;
 }
 
-/* projexts section */
+/* projects section */
 
 .projects-section {
   padding: 4rem 2rem;
