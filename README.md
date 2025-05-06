@@ -19,3 +19,7 @@ This is my personal portfolio — built to showcase who I am, what I do, and wha
 - JavaScript (Vanilla)
 - Git / GitHub
 - Basic Figma planning
+
+## Figma link
+
+https://www.figma.com/design/AezmZXKUT0rvwXGRh4Ctoa/Untitled?node-id=0-1&p=f&t=fpbXd1dyO3RemJXb-0
